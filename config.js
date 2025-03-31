@@ -50,7 +50,7 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
-	firstButtonsContainer: [
+	/*firstButtonsContainer: [
 		{
 			id: '1',
 			name: 'Github',
@@ -227,4 +227,4 @@ const CONFIG = {
 			],
 		},
 	],
-};
+*/};
